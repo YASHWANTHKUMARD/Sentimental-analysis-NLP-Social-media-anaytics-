@@ -27,6 +27,13 @@ sentiments using NLP.
 
 ## ▶ How to Run
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/youtube-comment-sentiment-from-video
-cd youtube-comment-sentiment-from-video
+  ```bash
+  git clone https://github.com/yourusername/youtube-comment-sentiment-from-video
+  cd youtube-comment-sentiment-from-video
+2.Install dependencies
+  pip install -r requirements.txt
+3.Open sentiment_from_video.py
+  Add your API key
+  Add your VIDEO_ID
+4.Run
+  python src/sentiment_from_video.py
