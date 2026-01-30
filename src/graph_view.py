@@ -1,0 +1,6 @@
+plt.figure(figsize=(6,4))
+sns.countplot(x="sentiment", data=df)
+plt.title("Comment Sentiment Distribution")
+plt.xlabel("Sentiment")
+plt.ylabel("Number of Comments")
+plt.show()
