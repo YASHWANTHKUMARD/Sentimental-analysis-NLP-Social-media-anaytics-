@@ -37,3 +37,16 @@ sentiments using NLP.
   Add your VIDEO_ID
 4.Run
   python src/sentiment_from_video.py
+
+📊 Output
+
+Sentiment distribution graph
+Percentage of positive/neutral/negative comments
+Top negative feedback keywords
+
+🎓 Use Case
+
+YouTube creators
+Content improvement analysis
+NLP & data analytics projects
+Academic mini / final-year project
